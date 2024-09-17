@@ -1,0 +1,8 @@
+verison: "3"
+  tasks:
+    install:
+      cmds:
+        - npm i
+    start:
+      cmds:
+        - npm start
